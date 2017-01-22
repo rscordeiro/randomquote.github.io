@@ -1,0 +1,36 @@
+body {
+  overflow:hidden;
+  background-color: #2D3142 /*or #206C82*/;
+}
+
+#quote-div {
+  background-color: #D68FD6;
+  height: 80%;
+  width: 100%;
+  padding-bottom: 15%;
+  padding-top: 1%;
+  text-align: center;
+}
+
+#quote-p {
+  padding-top: 10%;
+  font-size: 40px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#author-text {
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#buttons-div {
+  margin-top: 1%;
+  max-width: 100%;
+  max-height: 20%;
+  margin-left: 89%;
+  margin-right: 0;
+}
+#tweet-btn {
+  max-width: 20px;
+  max-height: 18px;
+}
